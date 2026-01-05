@@ -70,6 +70,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eeazzy/eeazzy/output/pacman-contribution-graph.svg">
 </picture>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{eeazzy}"/>
+</a>
+
 ---
 
 <div align="center">
