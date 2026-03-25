@@ -48,8 +48,8 @@
 
 ## 🚀 Featured
 
-- ✨ **Workaway** — 게스트하우스 예약 & 모임 & 일자리 통합 서비스  
-  - 🔗 Repo: [워커웨이](https://github.com/Tour-Work-Korea)
+- ✨ **Guesthouse-Ddakji** — 게스트하우스 예약 & 모임 & 일자리 통합 서비스  
+  - 🔗 Repo: [게딱지](https://github.com/Tour-Work-Korea)
 
 ---
 
